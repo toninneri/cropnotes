@@ -19,12 +19,7 @@ You can use the function sign up and create an anccount.
 <p align="center">
   <img alt="desktop" src="desktop.png" width="50%">
   </p>
-<p align="flex">
-  
-  <img alt="page1" src="page1.jpg" width="50%">
-  <img alt="page2" src="page2.jpg" width="50%">
-  
-</p>
+
 
 # Getting Started with Create React App
 
