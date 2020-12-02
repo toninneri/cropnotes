@@ -11,15 +11,17 @@ password: tom
 You can use the function sign up and create an anccount.
 
 <br>
+# Crop Notes:
 
 <p align="center">
   <img alt="logo" src="logo.png" width="60%">
 </p>
 <br>
 <p align="center">
-  <img alt="page1" src="page1.png" width="60%">
-  <img alt="page2" src="page2.png" width="60%">
-  <img alt="page3" src="page3.png" width="60%">
+  <img alt="desktop" src="desktop.png" width="60%">
+  <img alt="page1" src="page1.jpg" width="60%">
+  <img alt="page2" src="page2.jpg" width="60%">
+  <img alt="page3" src="page3.jpg" width="60%">
 </p>
 
 # Getting Started with Create React App
