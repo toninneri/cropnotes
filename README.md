@@ -17,7 +17,7 @@ You can use the function sign up and create an anccount.
   <img alt="logo" src="logo.png" width="50%">
 </p>
 <p align="center">
-  <img alt="desktop" src="desktop.png" width="50%">
+  <img alt="desktop" src="desktop.png" width="70%">
   </p>
 
 
